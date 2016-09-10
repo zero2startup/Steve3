@@ -7,13 +7,7 @@
       </block>
     </value>
     <statement name="DO">
-      <block type="movement_forward" id="311">
-        <next>
-          <block type="multimedia_displaybmp" id="358">
-            <field name="BMP"></field>
-          </block>
-        </next>
-      </block>
+      <block type="movement_forward" id="311"></block>
     </statement>
   </block>
 </xml>
