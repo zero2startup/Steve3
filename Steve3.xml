@@ -1,6 +1,6 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="controls_whileUntil" id="301" inline="false" x="-45" y="-11">
-    <field name="MODE">WHILE</field>
+  <block type="controls_whileUntil" id="301" inline="false" x="-57" y="-17">
+    <field name="MODE">UNTIL</field>
     <value name="NUMBER">
       <block type="sensor_spectrometer" id="318">
         <field name="LIGHT">RED</field>
